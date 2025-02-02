@@ -6,8 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="[pondering-pondering-my-orb](https://github.com/user-attachments/assets/1fc79742-3ab9-4fc0-8361-60dd35f65b0c)
-  "/>
+<img align="right" height="200" src="https://github.com/user-attachments/assets/1fc79742-3ab9-4fc0-8361-60dd35f65b0c"/>
 
 ###
 
