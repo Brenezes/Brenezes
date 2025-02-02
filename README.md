@@ -1,4 +1,13 @@
-<h2 align="left">👋 Hi there! I’m Breno Menezes – Data Detective 🔍 | DevOps Dreamer 🚀 | Python & SQL Automation Lover 🤖 | Turning Data into Magic🧙 , One Script at a Time ✨</h2>
+<h1 align="left">👋 Hi there! I’m Breno Menezes – Data Detective 🔍 | DevOps Dreamer 🚀 | Python & SQL Automation Lover 🤖 | Turning Data into Magic🧙 , One Script at a Time ✨</h1>
+
+###
+
+<h2 align="left">✨ Breaking codes since 2020<br>📚 Recently studying Docker and other DevOps tools 🐳<br>🥊 Muay-Thai fighter in my spare time</h2>
+
+###
+
+<img align="right" height="200" src="[pondering-pondering-my-orb](https://github.com/user-attachments/assets/1fc79742-3ab9-4fc0-8361-60dd35f65b0c)
+  "/>
 
 ###
 
@@ -9,7 +18,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/pondering-pondering-my-orb-my-orb-orb-pondering-my-pondering-my-orb-orb-gif-24060364"  />
+<h1 align="left">Contacts! 📱</h1>
 
 ###
 
@@ -24,6 +33,10 @@
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
   </a>
 </div>
+
+###
+
+<h1 align="left">I code with 🤖</h1>
 
 ###
 
