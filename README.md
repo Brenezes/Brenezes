@@ -7,7 +7,9 @@
 ###
 
 <h3 align="left">✨ Breaking codes since 2020<br>📚 Recently studying Docker and other DevOps tools 🐳<br>🥊 Muay-Thai fighter in my spare time<br></h3>
-<br/><br/><br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-menezes-araujo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brenomearaujo@gmail.com) [![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/Breno_Menezes)
