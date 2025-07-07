@@ -1,5 +1,6 @@
 # 👋 Hi there! I’m Breno Menezes – Data Detective 🔍 | DevOps Dreamer 🚀 | Python & SQL Automation Lover 🤖 | Turning Data into Magic🧙 , One Script at a Time ✨
 <br>✨ Breaking codes since 2020<br>📚 Recently studying Docker and other DevOps tools 🐳<br>🥊 Muay-Thai fighter in my spare time<br>
+<img align="right" alt="" height="190px" src="/https://tenor.com/bM7my.gif">
 
 
 ## 🌐 Socials:
