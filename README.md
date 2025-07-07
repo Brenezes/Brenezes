@@ -1,8 +1,12 @@
 # 👋 Hi there! I’m Breno Menezes – Data Detective 🔍 | DevOps Dreamer 🚀 | Python & SQL Automation Lover 🤖 | Turning Data into Magic🧙 , One Script at a Time ✨
-![wizard](https://github.com/Brenezes/Brenezes/src/pondering-pondering-my-orb.gif)
-<br>✨ Breaking codes since 2020<br>📚 Recently studying Docker and other DevOps tools 🐳<br>🥊 Muay-Thai fighter in my spare time<br>
 
+###
 
+<img align="right" width="300" src="./src/pondering-pondering-my-orb.gif"  />
+
+###
+
+<h3 align="left">✨ Breaking codes since 2020<br>📚 Recently studying Docker and other DevOps tools 🐳<br>🥊 Muay-Thai fighter in my spare time<br></h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-menezes-araujo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brenomearaujo@gmail.com) [![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/Breno_Menezes)
@@ -23,5 +27,14 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Brenezes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brenezes/Brenezes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brenezes/Brenezes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brenezes/Brenezes/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ---
 [![](https://visitcount.itsvg.in/api?id=Brenezes&icon=0&color=0)](https://visitcount.itsvg.in)
